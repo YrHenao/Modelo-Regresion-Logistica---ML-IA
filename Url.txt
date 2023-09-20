@@ -1,0 +1,1 @@
+http://127.0.0.1:5000/predict?personasACargo=0&nivelAcademico=4.0&ingresos=200000.0&tituloObtenido=0.0&ocupacion=0.0&ptajeAcierta=0&edad=19
